@@ -20,7 +20,7 @@
                     <div class="left">
                         <div class="inner">
                             <h3 class="hello">Hello I'm</h3>
-                            <h3 class="name">James Smith</h3>
+                            <h3 class="name">Yusup Supriatna</h3>
                             <h3 class="job">Web Developer from New York</h3>
                             <p class="text">Jodi kokhono vul hoye jai tumi oporadh nio na ptate velit esse cillum
                                 dolore</p>
@@ -33,8 +33,8 @@
                                 </div>
                             </div>
                         </div>
-                        <h3 class="stroke_1">James</h3>
-                        <h3 class="stroke_2">Smith</h3>
+                        <h3 class="stroke_1">Yusup</h3>
+                        <h3 class="stroke_2">Supriatna</h3>
                     </div>
                     <div class="right">
                         <div class="image">
